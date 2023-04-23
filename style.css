@@ -381,15 +381,13 @@ form.sign-in-form {
     padding: 0 1.5rem;
   }
 
-  .image {
-    display: none;
-  }
+  
   .panel .content {
     padding: 0.5rem 1rem;
   }
 
   .right-panel {
-    margin-top: 200px;
+    margin-top: 140px;
 
   }
   .container {
